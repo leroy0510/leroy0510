@@ -4,4 +4,5 @@ WebEngine is an open-source, fast and secure CMS for private Mu Online game serv
 We are currently working on version 2.0.0!
 
 For support please visit our support forum:
-http://forum.muengine.net/
+http://forum.webenginecms.org
+/
